@@ -32,7 +32,7 @@ For the technical people who want to go deeper.
 ## Why I'm Building This
 
 I'm an AI Automation Specialist based in Auckland, New Zealand, 
-working toward a career in Europe. I wanted a portfolio that does 
+working toward a career in NZ, Australia or Europe. I wanted a portfolio that does 
 something — not just describes what I've done.
 
 The build journal is as important as the build itself. 
